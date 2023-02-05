@@ -2,14 +2,14 @@
   "name": "cohijack",
   "version": "0.0.2",
   "packageManager": "pnpm@7.5.0",
-  "description": "",
+  "description": "Multi-platform file uploader.",
   "keywords": [],
   "homepage": "https://github.com/so1ve/cohijack#readme",
   "bugs": {
     "url": "https://github.com/so1ve/cohijack/issues"
   },
   "license": "MIT",
-  "author": "Ray <nn_201312@163.com> (@so1ve)",
+  "author": "Ray <i@mk1.io> (@so1ve)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/so1ve/cohijack.git"
